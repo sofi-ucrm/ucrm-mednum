@@ -3,7 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-### <span style="color:Tomato">New !!!</span> Nouveaux ateliers de médiation numériques à l'UCRM
+<span style="color:Tomato">05/02/2024 </span>
+### <span style="color:Tomato">Nouveaux ateliers de médiation numériques à l'UCRM</span>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 
@@ -24,7 +25,7 @@ Planning :
 - Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.
 - Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
 
-Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : mailto:s.daeron@ucrm.fr. 
+Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
 
 Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
 - Groupe  bleu
@@ -35,5 +36,5 @@ Le mail doit préciser les : nom + prénom + téléphone ou contact des personne
 
 <b>Les inscriptions seront confirmées à partir du 14 février 2024 </b>
 
-<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(mailto:s.daeron@ucrm.fr)
+<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
 (mais absente du 06 après-midi au 09 février) 
