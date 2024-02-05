@@ -3,19 +3,19 @@ title: "Permanence"
 order: 2
 in_menu: true
 ---
-## Permanence en semi-autonomie
+### <span style="color:Tomato">Permanence en semi-autonomie</span>
 
-** Séances de 3h ** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
+**Séances de 3h** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
 
-** Groupe de 6 personnes ** maximum. 
+**Groupe de 6 personnes** maximum. 
 
-** Programme ** : à l'initiative des participant.e.s, sur leur smartphone ou sur ordinateur (le leur ou prété)
+**Programme** : à l'initiative des participant.e.s, sur leur smartphone ou sur ordinateur (le leur ou prété)
 
-** Mode d’animation ** : soutien, partage de trucs et astuces, conseils, … 
+**Mode d’animation** : soutien, partage de trucs et astuces, conseils, … 
 
-** Public concerné ** : les personnes déjà utilisatrices de l’ordinateur, même débutantes, mais avec un besoin particulier
+**Public concerné** : les personnes déjà utilisatrices de l’ordinateur, même débutantes, mais avec un besoin particulier
 
-** Exemple**  : 
+**Exemple**  : 
 - Rechercher des informations sur internet
 - Mettre à jour un CV 
 - Mettre en page une lettre de motivation
@@ -23,4 +23,4 @@ in_menu: true
 - Acheter un billet, un abonnement,…
 - Faire des mises à jour de son ordinateur ou se son smartphone
 
-** Conditions matérielles ** : des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, les participant.e.s peuvent aussi venir avec leur propre smartphone, Connexion wifi 5G fournie. 
+**Conditions matérielles** : <b><span style="color:Tomato">des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:Tomato">leur propre smartphone ou ordinateur </span> </b>, Connexion  <b><span style="color:Tomato">wifi 5G fournie</span> </b>. 
