@@ -3,7 +3,7 @@ title: "Mini-cycle Smartphone"
 order: 1
 in_menu: true
 ---
-## Mini-cycle : Gérer son smartphone au quotidien et aller vers l’ordinateur
+### <span style="color:Tomato"> Mini-cycle : Gérer son smartphone au quotidien et aller vers l’ordinateur</span>
 
 **4 séances de 1h30** 
 
