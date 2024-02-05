@@ -9,10 +9,8 @@ in_menu: true
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 
 2 types d'ateliers sont proposés
-- le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span>
-
-- la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span>
-
+- le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycle%20smartphone.html"> (+d'infos) </a>
+- la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
 
 
 Planning : 
