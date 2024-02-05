@@ -24,7 +24,7 @@ Planning :
 - Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.
 - Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
 
-Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer un mail à : s.daeron@ucrm.fr. 
+Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : mailto:s.daeron@ucrm.fr. 
 
 Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
 - Groupe  bleu
@@ -33,7 +33,7 @@ Le mail doit préciser les : nom + prénom + téléphone ou contact des personne
 - Groupe du 04
 - Groupe du 06
 
-<b>Les inscriptions seront confirmées le 14 février 2024 </b>
+<b>Les inscriptions seront confirmées à partir du 14 février 2024 </b>
 
-<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(s.daeron@ucrm.fr)
-(absente du 06 après-midi au 09 février) 
+<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(mailto:s.daeron@ucrm.fr)
+(mais absente du 06 après-midi au 09 février) 
