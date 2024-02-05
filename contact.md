@@ -3,7 +3,6 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+### <span style="color:Tomato">Contact</span>
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>) 
