@@ -1,6 +1,6 @@
 ---
 title: "Mini-cycle Smartphone"
-order: 4
+order: 1
 in_menu: true
 ---
 ## Mini-cycle : Gérer son smartphone au quotidien et aller vers l’ordinateur

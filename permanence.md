@@ -1,6 +1,6 @@
 ---
 title: "Permanence"
-order: 1
+order: 2
 in_menu: true
 ---
 ## Permanence en semi-autonomie
