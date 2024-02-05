@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 <span style="color:Tomato">05/02/2024 </span>
-### <span style="color:Tomato">Nouveaux ateliers de médiation numériques à l'UCRM</span>
+### <span style="color:Tomato">Des ateliers numériques à l'UCRM</span>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 
