@@ -3,12 +3,40 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<span style="color:Tomato">05/02/2024 </span>
 ### <span style="color:Tomato">Des ateliers numériques à l'UCRM</span>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
+<span style="color:Tomato">04/03/2024 </span>
 
-2 types d'ateliers sont proposés
+En mars, 1 nouveau type d'atelier sera proposé : 
+
+- le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Faire un CV sur smartphone  avec l'application CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#monancre">
+(+d'infos)
+</a>
+
+
+Planning : 
+- 1 mini-cycle en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30
+- 1 mini-cycle en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
+
+
+![Texte décrivant l'image]({% link images/planning mars 2024.png %})
+
+- Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.
+
+Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
+
+Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
+- Groupe  bleu
+- Groupe vert
+
+<b>Les inscriptions seront confirmées à partir du 12 mars 2024 </b>
+
+<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
+
+
+<span style="color:Tomato">05/02/2024 </span>
+
 - le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycle%20smartphone.html"> (+d'infos) </a>
 - la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
 
