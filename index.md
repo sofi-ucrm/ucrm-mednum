@@ -8,7 +8,7 @@ in_menu: true
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 <span style="color:Tomato">04/03/2024 </span>
 
-En mars, 1 nouveau type d'atelier sera proposé : 
+En mars, 2 types d'ateliers seront proposés : 
 
 - le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Faire un CV sur smartphone  avec l'application CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#monancre">
 (+d'infos)
@@ -18,17 +18,20 @@ En mars, 1 nouveau type d'atelier sera proposé :
 Planning : 
 - 1 mini-cycle en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30
 - 1 mini-cycle en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
-
+- 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h
 
 ![Texte décrivant l'image]({% link images/planning mars 2024.png %})
 
 - Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.
+- Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
 
 Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
 
 Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
-- Groupe  bleu
+- Groupe bleu
 - Groupe vert
+- Groupe du 26
+- Groupe du 27 
 
 <b>Les inscriptions seront confirmées à partir du 12 mars 2024 </b>
 
