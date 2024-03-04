@@ -8,14 +8,14 @@ in_menu: true
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 <p>
 <br/>
-<b><span style="color:#0E6270">04/03/2024 </span></b>
+<b><span style="color:Tomato">04/03/2024 </span></b>
 <br/>
 </p>
 En mars, 2 types d'ateliers seront proposés : 
 
-- le  <span style="color:#0E6270"> <b>Mini-cycle Smartphone 4 séances « Faire un CV sur smartphone avec l'application CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#monancre">
+- le  <span style="color:Tomato"> <b> mini-cycle « Faire un CV sur smartphone avec CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#monancre">
 (+d'infos)
-- la <span style="color:#0E6270"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
+- la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
 </a>
 
 
@@ -42,11 +42,11 @@ Le mail doit préciser les : nom + prénom + téléphone ou contact des personne
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
 
 
-<span style="color:#0E6270">05/02/2024 </span>
+<span style="color:Tomato">05/02/2024 </span>
 
 En février, 2 types d'ateliers seront proposés : 
-- le  <span style="color:#0E6270"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycle%20smartphone.html"> (+d'infos) </a>
-- la <span style="color:#0E6270"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
+- le  <span style="color:Tomato"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycle%20smartphone.html"> (+d'infos) </a>
+- la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
 
 
 Planning : 
