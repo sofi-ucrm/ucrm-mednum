@@ -3,17 +3,17 @@ title: "Permanence"
 order: 2
 in_menu: true
 ---
-### <span style="color:Tomato">Permanence en semi-autonomie</span>
+### <span style="color:Tomato">Permanence en autonomie</span>
 
 **Séances de 3h** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
 
-**Groupe de 6 personnes** maximum. 
+**Groupe de 5 personnes** maximum. 
 
 **Programme** : à l'initiative des participant.e.s, sur leur smartphone ou sur ordinateur (le leur ou prété)
 
 **Mode d’animation** : soutien, partage de trucs et astuces, conseils, … 
 
-**Public concerné** : les personnes déjà utilisatrices de l’ordinateur, même débutantes, mais avec un besoin particulier
+**Public concerné** : les personnes déjà utilisatrices de l’ordinateur, même débutantes, mais avec un besoin précis et d'accord avec le travail en autonomie
 
 **Exemple**  : 
 - Rechercher des informations sur internet
