@@ -1,6 +1,6 @@
 ---
 title: "Mini-cycle Smartphone"
-order: 1
+order: 2
 in_menu: true
 ---
 ### <span style="color:Tomato"> Mini-cycle : Gérer son smartphone au quotidien et aller vers l’ordinateur</span>
