@@ -7,7 +7,7 @@ in_menu: true
 
 **4 séances de 1h30** 
 
-Groupe de **6 personnes** maximum. 
+Groupe de **5 personnes** maximum. 
 
 **Programme** (Indicatif)
 - Séance P1 : accueil, gestion du stockage, mises en situation sur des application de scans, notions de comptes. 
@@ -22,19 +22,21 @@ Groupe de **6 personnes** maximum.
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. 
 
 <div id="monancre">
+- - -
+</div>
 
 ### <span style="color:Tomato"> Mini-cycle : Apprendre à faire un CV avec CANVA sur smartphone</span>
-</div>
+
 
 **4 séances de 1h30** 
 
-Groupe de **4 personnes** maximum. 
+Groupe de **5 personnes** maximum. 
 
 **Programme** (Indicatif)
-- Séance P1 : Accueil, installation de l'application, récupération de comptes
+- Séance P1 : Accueil, installation de l'application CANVA, création et récupération des comptes
 - Séance P2 : Prise en main de CANVA, choix d'un modèle gratuit de CV, export PDF et sauvegarde du CV
 - Séance P3 : Mise à jour du contenu du CV, export PDF et sauvegarde du CV
-- Séance P4 : Mise en forme du CV et Conclusion
+- Séance P4 : Mise en page du CV et conclusion 
 
 **Mode d’animation**  : pratico-pratique, mise en avant des connaissances des personnes, changements de rythme, exercices sur ordinateur pour comparer avec le smartphone
 
