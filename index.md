@@ -6,8 +6,11 @@ in_menu: true
 ### <span style="color:#0E6270">Des ateliers numériques à l'UCRM</span>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
-<span style="color:#0E6270">04/03/2024 </span>
-
+<p>
+<br/>
+<b><span style="color:#0E6270">04/03/2024 </span></b>
+<br/>
+</p>
 En mars, 2 types d'ateliers seront proposés : 
 
 - le  <span style="color:#0E6270"> <b>mini-cycle de 4 séances « Faire un CV sur smartphone  avec l'application CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#monancre">
