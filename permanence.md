@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### <span style="color:Tomato">Permanence en autonomie</span>
 
-**Séances de 3h** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
+**Séances de 2 ou 3h** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
 
 **Groupe de 5 personnes** maximum. 
 
