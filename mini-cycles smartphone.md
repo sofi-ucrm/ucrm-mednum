@@ -49,4 +49,4 @@ Groupe de **5 personnes** maximum.
 
 **Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : comptes, espaces personnels, stockage... Les personnes doivent avoir envie de fonctionner en groupe. Le CV ne sera pas nécessairement terminé mais les participant.e.s auront une base pour poursuivre en autonomie. 
 
-**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. 
+**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés si des personnes veulent essayer sur ordinateur. Venir avec son ordi est OK, la **connexion wifi** 5G sera fournie. 
