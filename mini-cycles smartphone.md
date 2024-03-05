@@ -4,7 +4,7 @@ order: 2
 in_menu: true
 ---
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
-- <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</b></span>
+- <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</a></b></span>
 
 <div id="smartphone">
  	&nbsp;
