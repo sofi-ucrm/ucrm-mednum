@@ -40,13 +40,13 @@ Groupe de **5 personnes** maximum.
 Groupe de **5 personnes** maximum. 
 
 **Programme** (Indicatif)
-- Séance P1 : Accueil, installation de l'application CANVA, création et récupération des comptes
-- Séance P2 : Prise en main de CANVA, choix d'un modèle gratuit de CV, export PDF et sauvegarde du CV
-- Séance P3 : Mise à jour du contenu du CV, export PDF et sauvegarde du CV
-- Séance P4 : Mise en page du CV et conclusion 
+- Séance P1 : Accueil, installation de l'application CANVA, création ou récupération de compte, prise en main de l'application CANVA
+- Séance P2 : Choix d'un modèle gratuit de CV, début de travail sur le contenu et de mise en forme. Notion de stockage local et distant. 
+- Séance P3 : Poursuite du travail sur le contenu et de mise en forme. Export PDF. 
+- Séance P4 : Finalisation. Retour sur le stockage, la mise à jour et l'export PDF. 
 
 **Mode d’animation**  : pratico-pratique, mise en avant des connaissances des personnes, changements de rythme, exercices sur ordinateur pour comparer avec le smartphone
 
-**Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : comptes, espaces personnels, stockage. Les personnes doivent avoir envie de fonctionner en groupe. Le CV ne sera pas nécessairement terminé mais les participant.e.s auront une base pour poursuivre en autonomie. 
+**Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : comptes, espaces personnels, stockage... Les personnes doivent avoir envie de fonctionner en groupe. Le CV ne sera pas nécessairement terminé mais les participant.e.s auront une base pour poursuivre en autonomie. 
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. 
