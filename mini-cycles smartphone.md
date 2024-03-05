@@ -3,6 +3,13 @@ title: "Mini-cycles Smartphone"
 order: 2
 in_menu: true
 ---
+- <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
+- <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</b></span>
+
+<div id="smartphone">
+ 	&nbsp;
+</div>
+
 ### <span style="color:Tomato"> Mini-cycle : Gérer son smartphone au quotidien et aller vers l’ordinateur</span>
 
 **4 séances de 1h30** 
@@ -21,8 +28,8 @@ Groupe de **5 personnes** maximum.
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. 
 
-<div id="monancre">
-- - -
+<div id="cv_canva">
+ 	&nbsp;
 </div>
 
 ### <span style="color:Tomato"> Mini-cycle : Apprendre à faire un CV avec CANVA sur smartphone</span>
