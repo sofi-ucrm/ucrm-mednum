@@ -13,15 +13,14 @@ Des ateliers de médiation numériques sont proposés au **108 route d’Espagne
 </p>
 En mars, 2 types d'ateliers seront proposés : 
 
-- le  <span style="color:Tomato"> <b> mini-cycle « Faire un CV sur smartphone avec CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#cv_canva"></b>
+- le  <span style="color:Tomato"> <b> mini-cycle « Faire un CV sur smartphone avec CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles%20smartphone.html#cv_canva">
 (+d'infos)
 - la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
-</a>
 
 
 Planning : 
-- 1 mini-cycle en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30
-- 1 mini-cycle en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
+- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30
+- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
 - 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h
 
 ![Texte décrivant l'image]({% link images/planning mars 2024.png %})
