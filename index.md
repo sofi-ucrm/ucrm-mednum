@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-### <span style="color:#0E6270">Des ateliers numériques à l'UCRM</span>
+<h1>Des ateliers numériques à l'UCRM</h1>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 <p>
