@@ -41,12 +41,13 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 - Séance P1 : Accueil, installation de l'application CANVA, création ou récupération de compte, prise en main de l'application CANVA
-- Séance P2 : Choix d'un modèle gratuit de CV, début de travail sur le contenu et de mise en forme. Notion de stockage local et distant. 
-- Séance P3 : Poursuite du travail sur le contenu et de mise en forme. Export PDF. 
-- Séance P4 : Finalisation. Retour sur le stockage, la mise à jour et l'export PDF. 
+- Séance P2 : Choix d'un modèle gratuit de CV, début de travail sur le contenu et de mise en forme par les fonctions simples.  
+- Séance P3 : Finalisation d'une première version, export PDF et exercice d'envoi par mail
+- Séance P4 : Pour aller plus loin : Fonctions avancées de CANVA et autres usages
 
 **Mode d’animation**  : pratico-pratique, mise en avant des connaissances des personnes, changements de rythme, exercices sur ordinateur pour comparer avec le smartphone
 
-**Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : comptes, espaces personnels, stockage... Les personnes doivent avoir envie de fonctionner en groupe. Le CV ne sera pas nécessairement terminé mais les participant.e.s auront une base pour poursuivre en autonomie. 
+**Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : téléchargement d'applications, comptes, espaces personnels, mots de passe, stockage... Les personnes doivent avoir envie de fonctionner en groupe. 
+A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur CV  sur CANVA et le modifier en autonomie. 
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés si des personnes veulent essayer sur ordinateur. Venir avec son ordi est OK, la **connexion wifi** 5G sera fournie. 
