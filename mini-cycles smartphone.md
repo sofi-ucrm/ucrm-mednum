@@ -26,7 +26,7 @@ Groupe de **5 personnes** maximum.
 
 **Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien et découvrir l’ordinateur pour se faciliter certaines démarches. Le fil conducteur est la notion de comptes et la gestion des espaces personnels. Les personnes doivent avoir envie de fonctionner en groupe.
 
-**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. 
+**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. Idéalement, les participant.e.s apportent un CV existant à mettre à jour. 
 
 <div id="cv_canva">
  	&nbsp;
