@@ -17,6 +17,26 @@ in_menu: true
 Groupe de **5 personnes** maximum. 
 
 **Programme** (Indicatif)
+<table border="1">
+	<tr>
+		<td>![Texte décrivant l'image]({% link images/P1.png %})</td>
+		<td>Séance P1 : Accueil, installation de l’application CANVA, création ou récupération de compte, prise en main de l’application CANVA</td>
+	</tr>
+	<tr>
+		<td>![Texte décrivant l'image]({% link images/P2.png %})</td>
+		<td> Séance P2 : Choix d’un modèle gratuit de CV, travail sur le contenu (saisie au clavier ou saisie vocale), mise en forme par les fonctions simples de CANVA sur smartphone</td>
+	</tr>
+		<tr>
+		<td>![Texte décrivant l'image]({% link images/P3.png %})</td>
+		<td>  Séance P3 : Finalisation d’une première version, export PDF et exercice d’envoi par mail</td>
+	</tr>
+		<tr>
+		<td>![Texte décrivant l'image]({% link images/P4.png %})</td>
+		<td> Séance P4 : Pour aller plus loin ! Fonctions avancées de mise en forme de CANVA et autres utilisations possibles</td>
+	</tr>
+</table>
+
+
 - Séance P1 : accueil, gestion du stockage, mises en situation sur des application de scans, notions de comptes. 
 - Séance P2 : retour sur les notions de comptes et mises en situation sur les applications du quotidien : maps, Doctolib, Tisseo, …
 - Séance P3 : retour sur les notions de comptes et mises en situation sur les espaces administratifs
