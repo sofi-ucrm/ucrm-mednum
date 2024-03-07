@@ -35,7 +35,7 @@ Groupe de **5 personnes** maximum.
 ### <span style="color:Tomato"> Mini-cycle : Apprendre à faire un CV avec CANVA sur smartphone</span>
 
 
-**4 séances de 1h30** 
+**3 séances de 1h30 (+1 séance en option pour aller plus loin)** 
 
 Groupe de **5 personnes** maximum. 
 
