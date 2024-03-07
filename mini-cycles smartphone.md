@@ -41,14 +41,15 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 
-![Texte décrivant l'image]({% link images/P1.png %})
 - Séance P1 : Accueil, installation de l'application CANVA, création ou récupération de compte, prise en main de l'application CANVA
-![Texte décrivant l'image]({% link images/P2.png %})
+![Texte décrivant l'image]({% link images/P1.png %})
 - Séance P2 : Choix d'un modèle gratuit de CV, travail sur le contenu (<b>saisie au clavier ou saisie vocale</b>), mise en forme par les fonctions simples de CANVA sur smartphone
-![Texte décrivant l'image]({% link images/P3.png %})
+![Texte décrivant l'image]({% link images/P2.png %})
 - Séance P3 : Finalisation d'une première version, export PDF et exercice d'envoi par mail
-![Texte décrivant l'image]({% link images/P4.png %})
+![Texte décrivant l'image]({% link images/P3.png %})
 - Séance P4 : Pour aller plus loin ! Fonctions avancées de mise en forme de CANVA et autres utilisations possibles
+![Texte décrivant l'image]({% link images/P4.png %})
+
 
 
 **Mode d’animation**  : pratico-pratique, mise en avant des connaissances des personnes, changements de rythme, exercices sur ordinateur pour comparer avec le smartphone
