@@ -15,7 +15,7 @@ in_menu: true
 **4 séances de 1h30** 
 
 Groupe de **5 personnes** maximum. 
-
+![Texte décrivant l'image]({% link images/canva.png %})
 **Programme** (Indicatif)
 <table border="1">
 	<tr>
