@@ -26,7 +26,7 @@ Groupe de **5 personnes** maximum.
 
 **Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien et découvrir l’ordinateur pour se faciliter certaines démarches. Le fil conducteur est la notion de comptes et la gestion des espaces personnels. Les personnes doivent avoir envie de fonctionner en groupe.
 
-**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie. Idéalement, les participant.e.s apportent un CV existant à mettre à jour. 
+**Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie.
 
 <div id="cv_canva">
  	&nbsp;
@@ -35,7 +35,7 @@ Groupe de **5 personnes** maximum.
 ### <span style="color:Tomato"> Mini-cycle : Apprendre à faire un CV avec CANVA sur smartphone</span>
 
 
-**3 séances de 1h30** (+1 séance option pour aller plus loin)
+**3 séances de 1h30** (+ une séance bonus en option pour aller plus loin)
 
 Groupe de **5 personnes** maximum. 
 
@@ -47,7 +47,7 @@ Groupe de **5 personnes** maximum.
 ![Texte décrivant l'image]({% link images/P2.png %})
 - Séance P3 : Finalisation d'une première version, export PDF et exercice d'envoi par mail
 ![Texte décrivant l'image]({% link images/P3.png %})
-- Séance P4 : Pour aller plus loin ! Fonctions avancées de mise en forme de CANVA et autres utilisations possibles
+- Séance P4 Facultative : Pour aller plus loin ! Fonctions avancées de mise en forme de CANVA et autres utilisations possibles
 ![Texte décrivant l'image]({% link images/P4.png %})
 
 
@@ -55,6 +55,7 @@ Groupe de **5 personnes** maximum.
 **Mode d’animation**  : pratico-pratique, mise en avant des connaissances des personnes, changements de rythme, exercices sur ordinateur pour comparer avec le smartphone
 
 **Public concerné** : Les personnes qui souhaitent modifier un CV ou apprendre à le faire sur un smartphone avec l'application CANVA. Au travers cette série d'atelier sont abordées plusieurs notions : téléchargement d'applications, comptes, espaces personnels, mots de passe, stockage... Les personnes doivent avoir envie de fonctionner en groupe. 
+Idéalement, les participant.e.s apportent un CV existant à mettre à jour. 
 A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur CV  sur CANVA et le modifier en autonomie. 
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés si des personnes veulent essayer sur ordinateur. Venir avec son ordi est OK, la **connexion wifi** 5G sera fournie. 
