@@ -25,7 +25,7 @@ Planning :
 
 ![Texte décrivant l'image]({% link images/planning mars 2024.png %})
 
-- Sur les mini-cycles, les personnes doivent être disponibles au moins les 3 premières séances.
+- Sur les mini-cycles, les personnes doivent être disponibles les 3 premières séances, la 4° est en option.
 - Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
 
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou par mail : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
