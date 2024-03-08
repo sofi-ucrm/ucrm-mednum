@@ -59,5 +59,5 @@ Idéalement, les participant.e.s apportent un CV existant à mettre à jour.
 A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur CV  sur CANVA et le modifier en autonomie. 
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés si des personnes veulent essayer sur ordinateur. Venir avec son ordi est OK, la **connexion wifi** 5G sera fournie. 
-
-- la <span style="color:Tomato"> <b></b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/#inscr_smartphone">Voir Planning et Modalités d'inscription </a> 
+<br/>
+<a href="https://sofi-ucrm.github.io/ucrm-mednum/#inscr_smartphone">Voir Planning et Modalités d'inscription </a> 
