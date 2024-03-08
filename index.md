@@ -17,6 +17,9 @@ En mars, 2 types d'ateliers seront proposés :
 (+d'infos)
 - la <span style="color:Tomato"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanence.html"> (+d'infos) </a>
 
+<div id="inscr_smartphone">
+ 	&nbsp;
+</div>
 
 Planning : 
 - 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30.
@@ -27,6 +30,7 @@ Planning :
 
 - Sur les mini-cycles, les personnes doivent être disponibles les 3 premières séances, la 4° est en option.
 - Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
+
 
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou par mail : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
 
