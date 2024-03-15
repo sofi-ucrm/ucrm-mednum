@@ -3,7 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<h1>Des ateliers numériques à l'UCRM</h1>
+![Texte décrivant l'image]({% link images/UCRM.jpg %})
+<h1>Bienvenue sur la page des ateliers numériques du 108</h1>
 
 Des ateliers de médiation numériques sont proposés au **108 route d’Espagne – 2° étage**. 
 <p>
@@ -75,3 +76,7 @@ Le mail doit préciser les : nom + prénom + téléphone ou contact des personne
 
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
 (mais absente du 06 après-midi au 09 février) 
+
+![Texte décrivant l'image]({% link images/france-relance-logo.jpg %})
+![Texte décrivant l'image]({% link images/anct.png %})
+![Texte décrivant l'image]({% link images/preview-logo-conseiller-numerique-feminin.png %}) 
