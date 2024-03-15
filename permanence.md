@@ -3,6 +3,7 @@ title: "Permanence"
 order: 2
 in_menu: true
 ---
+![Logo UCRM]({% link images/UCRM.jpg %})
 ### <span style="color:Tomato">Permanence en autonomie</span>
 
 **Séances de 2 ou 3h** (pendant lesquelles les participant.e.s peuvent venir et partir librement aux horaires de leur choix)
@@ -23,4 +24,6 @@ in_menu: true
 - Acheter un billet, un abonnement,…
 - Faire des mises à jour de son ordinateur ou de son smartphone
 
-**Conditions matérielles** : <b><span style="color:Tomato">des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:Tomato">leur propre smartphone ou ordinateur </span> </b>, Connexion  <b><span style="color:Tomato">wifi 5G fournie</span> </b>. 
+**Conditions matérielles** : <b><span style="color:Tomato">des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:Tomato">leur propre smartphone ou ordinateur </span> </b>, Connexion  <b><span style="color:Tomato">wifi 5G fournie</span> </b>.
+
+![Texte décrivant l'image]({% link images/banière basse.png %}) 
