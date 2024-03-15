@@ -3,6 +3,7 @@ title: "Mini-cycles Smartphone"
 order: 2
 in_menu: true
 ---
+![Logo UCRM]({% link images/UCRM.jpg %})
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</a></b></span>
 
@@ -61,3 +62,4 @@ A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur
 **Conditions matérielles** : les participant.e.s <b><span style="color:Tomato">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés si des personnes veulent essayer sur ordinateur. Venir avec son ordi est OK, la **connexion wifi** 5G sera fournie. 
 <br/>
 <a href="https://sofi-ucrm.github.io/ucrm-mednum/#inscr_smartphone">Voir Planning et Modalités d'inscription </a> 
+![Texte décrivant l'image]({% link images/banière basse.png %}) 
