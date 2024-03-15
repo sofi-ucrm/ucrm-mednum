@@ -27,7 +27,8 @@ Planning :
 - 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
 - 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h
 
-![Texte décrivant l'image]({% link images/planning mars 2024.png %})
+![Logo UCRM]({% link images/planning mars 2024.png %})
+<img src="% link images/planning mars 2024.png %" alt="Logo UCRM" height="42" width="42">. 
 
 - Sur les mini-cycles, les personnes doivent être disponibles les 3 premières séances, la 4° est en option.
 - Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
