@@ -39,14 +39,15 @@ Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront 
 - Groupe bleu
 - Groupe vert
 - Groupe du 15
-- Groupe du 22 
+- Groupe du 22
 
 <b>Les inscriptions seront confirmées à partir du 05 Avril 2024 </b>
-
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
+<br/>
+<br/>
 
-<br/>
-<br/>
+
+
 
 
 <b><span style="color:LimeGreen">04/03/2024 </span></b>
