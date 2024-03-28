@@ -45,8 +45,9 @@ Si mail, merci de préciser les : nom + prénom + téléphone ou contact des per
 
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
 
-
-<span style="color:LimeGreen">05/02/2024 </span>
+<br/>
+<br/>
+<b><span style="color:LimeGreen">05/02/2024 </span></b>
 
 En février, 2 types d'ateliers seront proposés : 
 - le  <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycle%20smartphone.html"> (+d'infos) </a>
