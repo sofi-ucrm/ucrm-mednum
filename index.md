@@ -14,13 +14,10 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <br/>
 <b><span style="color:LimeGreen">28/03/2024 </span></b>
 <br/>
-</p>
-En avril, 3 types d'ateliers seront proposés : 
-</p>
-- le <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphones"> (+d'infos) </a>
-</p>
-- le nouveau <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateurs"> (+d'infos) </a> 
-</p>
+<p>
+En avril, 3 types d'ateliers seront proposés : <p>
+- le <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a><p>
+- le nouveau <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> <p>
 - la nouvelle<span style="color:LimeGreen"> <b>permamence « Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a>
 
 Planning : 
@@ -61,7 +58,7 @@ En mars, 2 types d'ateliers seront proposés :
 </div>
 
 Planning : 
-- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30.
+- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30. <p>
 - 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
 - 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h30
 
