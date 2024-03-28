@@ -10,18 +10,43 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <p>
 <br/>
 
-
 <p>
 <br/>
 <b><span style="color:LimeGreen">28/03/2024 </span></b>
 <br/>
 </p>
 En avril, 3 types d'ateliers seront proposés : 
+</p>
+- le <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphones"> (+d'infos) </a>
+</p>
+- le nouveau <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateurs"> (+d'infos) </a> 
+</p>
+- la nouvelle<span style="color:LimeGreen"> <b>permamence « Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a>
 
-- 1  <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphones"> (+d'infos) </a>
-- 1 <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateurs"> (+d'infos) </a>
-- 2 <span style="color:LimeGreen"> <b>permamences « Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a>
- 
+Planning : 
+- Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: les 11, 16, 18 et 23 avril de 10h à 11h30.
+- Mini-cycle smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 11, 16, 18 et 23 avril de 14h à 15h30
+- 2 permanences CV et lettre en <b><span style="color:LightCoral ">rose</span></b>: les 15 avril et 22 avril de 14h à 16h
+![Texte décrivant l'image]({% link images/planning avril 2024.png %})
+
+- Sur les mini-cycles, les personnes doivent être disponibles les 4 séances
+- Sur les permanences CV, les personnes doivent arriver à 14h mais peuvent repartir quand elles le veulent
+
+
+<b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
+
+Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
+- Groupe bleu
+- Groupe vert
+- Groupe du 15
+- Groupe du 22
+
+<b>Les inscriptions seront confirmées à partir du 05 Avril 2024 </b>
+<b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
+<br/>
+<br/>
+
+
 <b><span style="color:LimeGreen">04/03/2024 </span></b>
 <br/>
 </p>
@@ -61,8 +86,8 @@ Si mail, merci de préciser les : nom + prénom + téléphone ou contact des per
 <br/>
 <br/>
 <b><span style="color:LimeGreen">05/02/2024 </span></b>
-
 En février, 2 types d'ateliers seront proposés : 
+<br/>
 - le  <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html"> (+d'infos) </a>
 - la <span style="color:LimeGreen"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html"> (+d'infos) </a>
 
