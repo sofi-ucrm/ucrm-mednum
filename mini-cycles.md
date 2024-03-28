@@ -5,7 +5,7 @@ in_menu: true
 ---
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</a></b></span>
-- <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Gérer son smartphone » </a></b></span>
+- <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Premiers pas avec l'ordinateur ou être plus à l'aise » </a></b></span>
 
 <div id="smartphone">
  	&nbsp;
@@ -63,7 +63,7 @@ A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur
  	&nbsp;
 </div>
 
-### <span style="color:limegreen"> Mini-cycle : premiers pas avec l'ordinateur</span>
+### <span style="color:limegreen"> Mini-cycle « Premiers pas avec l'ordinateur et être plus à l'aise » </span>
 
 
 **4 séances de 1h30** 
@@ -83,7 +83,7 @@ Groupe de **5 personnes** maximum.
 </br>
 A l'issue du parcours, les participant.e.s seront en capacité de saisir un texte simple, de naviguer sur internet et de se connecter à leur messagerie.
 
-**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre smartphone ou ordinateur </span> </b>, Connexion  <b><span style="color:Tomato">wifi 5G fournie</span> </b>.
+**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre ordinateur </span> </b>, Connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
 
 
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
