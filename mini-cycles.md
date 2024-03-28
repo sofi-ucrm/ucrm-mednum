@@ -5,7 +5,7 @@ in_menu: true
 ---
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</a></b></span>
-- <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Premiers pas avec l'ordinateur ou être plus à l'aise » </a></b></span>
+- <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Voir ou revoir les bases de l'ordinateur » </a></b></span>
 
 <div id="smartphone">
  	&nbsp;
@@ -63,7 +63,7 @@ A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur
  	&nbsp;
 </div>
 
-### <span style="color:limegreen"> Mini-cycle « Premiers pas avec l'ordinateur et être plus à l'aise » </span>
+### <span style="color:limegreen"> Mini-cycle « Voir ou revoir les bases de l'ordinateur »  </span>
 
 
 **4 séances de 1h30** 
