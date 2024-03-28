@@ -5,6 +5,7 @@ in_menu: true
 ---
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#cv_canva"> Mini-cycle « Faire un CV sur smartphone avec CANVA</a></b></span>
+- <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Gérer son smartphone » </a></b></span>
 
 <div id="smartphone">
  	&nbsp;
@@ -37,7 +38,7 @@ A l'issue du parcours, les participant.e.s seront en capacité d'installer et de
 ### <span style="color:limegreen"> Mini-cycle : Apprendre à faire un CV avec CANVA sur smartphone</span>
 
 
-**3 séances de 1h30** (+ une séance bonus en option pour aller plus loin)
+**2 séances de 1h30** 
 
 Groupe de **5 personnes** maximum. 
 
@@ -57,5 +58,32 @@ A l'issue du parcours, les participant.e.s seront en capacité de retrouver leur
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:OrangeRed">doivent venir avec leur smartphone et apporter un CV existant à mettre à jour.</span></b>, la **connexion wifi** 5G sera fournie. 
 <br/>
-<a href="https://sofi-ucrm.github.io/ucrm-mednum/#inscr_smartphone">Voir Planning et Modalités d'inscription </a> 
+
+<div id="ordinateur">
+ 	&nbsp;
+</div>
+
+### <span style="color:limegreen"> Mini-cycle : premiers pas avec l'ordinateur</span>
+
+
+**4 séances de 1h30** 
+
+Groupe de **5 personnes** maximum. 
+
+**Programme** (Indicatif)
+
+- Séance P1 : Voir ou revoir les bases : la souris, le clavier, les fenêtres, le bureau, les dossiers
+- Séance P2 : Taper un texte simple :  majuscules, chiffres, caractères spéciaux, mise en forme d'une sélection
+- Séance P3 : Naviguer sur Internet : navigateurs, moteurs de recherche, marques pages, onglets
+- Séance P4 : Se connecter à sa messagerie :  boite mail, pièces jointes, Sécurité
+
+**Mode d’animation**  : exercices pratiques, mise en avant des connaissances des personnes, pauses, comparaison avec l'utilisation des smartphones
+
+**Public concerné** : Les personnes qui découvrent l'ordinateur ou qui ne sont pas à l'aise avec un ordinateur. Les personnes doivent avoir envie de fonctionner en groupe. 
+</br>
+A l'issue du parcours, les participant.e.s seront en capacité de saisir un texte simple, de naviguer sur internet et de se connecter à leur messagerie.
+
+**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre smartphone ou ordinateur </span> </b>, Connexion  <b><span style="color:Tomato">wifi 5G fournie</span> </b>.
+
+
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
