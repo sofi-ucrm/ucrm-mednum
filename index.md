@@ -24,7 +24,9 @@ Planning : <p>
 - Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: les 11, 16, 18 et 23 avril de 10h à 11h30.<p>
 - Mini-cycle smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 11, 16, 18 et 23 avril de 14h à 15h30<p>
 - 2 permanences CV et lettre en <b><span style="color:LightCoral ">rose</span></b>: les 15 avril et 22 avril de 14h à 16h<p>
-![Texte décrivant l'image]({% link images/planning avril 2024.png %})<p>
+
+![Texte décrivant l'image]({% link images/planning avril 2024.png %})
+
 
 - Sur les mini-cycles, les personnes doivent être disponibles les 4 séances<p>
 - Sur les permanences CV, les personnes doivent arriver à 14h mais peuvent repartir quand elles le veulent<p>
