@@ -23,7 +23,7 @@ En avril, 3 types d'ateliers seront proposés : <p>
 Planning : <p>
 - Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: les 11, 16, 18 et 23 avril de 10h à 11h30.<p>
 - Mini-cycle smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 11, 16, 18 et 23 avril de 14h à 15h30<p>
-- 2 permanences CV et lettre en <b><span style="color:LightCoral ">rose</span></b>: les 15 avril et 22 avril de 14h à 16h<p>
+- 2 permanences CV et lettre en <b><span style="color:LightCoral ">rose</span></b>: les 15 avril et 22 avril de 14h à 16h30<p>
 <p>
 <img alt="planning avril" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningavril2024.png"  />
 <p>
