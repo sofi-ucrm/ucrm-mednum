@@ -16,9 +16,9 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <br/>
 <p>
 En avril, 3 types d'ateliers seront proposés : <p>
-- le <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a><p>
-- le nouveau <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> <p>
-- la nouvelle<span style="color:LimeGreen"> <b>permamence « Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a><p>
+- le  <b>mini-cycle de 4 séances <span style="color:LimeGreen">« Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a><p>
+- le nouveau  <b>mini-cycle de 4 séances <span style="color:LimeGreen">« Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> <p>
+- la nouvelle <b>permamence <span style="color:LimeGreen">« Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a><p>
 
 Planning : <p>
 - Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: les 11, 16, 18 et 23 avril de 10h à 11h30.<p>
@@ -47,71 +47,71 @@ Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront 
 
 <b><span style="color:LimeGreen">04/03/2024 </span></b>
 <br/>
-
+<p>
 En mars, 2 types d'ateliers seront proposés : 
-
+<p>
 - le  <span style="color:LimeGreen"> <b> mini-cycle « Faire un CV sur smartphone avec CANVA »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#cv_canva">
-(+d'infos)
-- la <span style="color:LimeGreen"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html"> (+d'infos) </a>
+(+d'infos)<p>
+- la <span style="color:LimeGreen"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html"> (+d'infos) </a><p>
 
 <div id="inscr_smartphone">
  	&nbsp;
 </div>
 
-Planning : 
+Planning : <p>
 - 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:DodgerBlue ">bleu</span></b>: les 18, 21, 25 et 28 mars de 10h à 11h30. <p>
-- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30
-- 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h30
+- 1 mini-cycle CV avec Canva sur smartphone en <b><span style="color:YellowGreen">vert</span></b>: les 18, 21, 25 et 28 mars de 14h à 15h30<p>
+- 2 permanences en <b><span style="color:LightCoral ">rose</span></b>: les 26 mars et 27 mars de 14h à 16h30<p>
 
-![Logo UCRM]({% link images/planning mars 2024.png %})
+<img alt="planning avril" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planning mars 2024.png"  />
+<p>
+- Sur les mini-cycles, les personnes doivent être disponibles les 3 premières séances, la 4° est en option.<p>
+- Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.<p>
 
-- Sur les mini-cycles, les personnes doivent être disponibles les 3 premières séances, la 4° est en option.
-- Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
 
+<b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou par mail : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
-<b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou par mail : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
+Si mail, merci de préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : <p>
+- Groupe bleu<p>
+- Groupe vert<p>
+- Groupe du 26<p>
+- Groupe du 27 <p>
 
-Si mail, merci de préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
-- Groupe bleu
-- Groupe vert
-- Groupe du 26
-- Groupe du 27 
-
-<b>Les inscriptions seront confirmées à partir du 12 mars 2024 </b>
+<b>Les inscriptions seront confirmées à partir du 12 mars 2024 </b><p>
 
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
-
+<p>
 <br/>
 <br/>
-<b><span style="color:LimeGreen">05/02/2024 </span></b>
+<b><span style="color:LimeGreen">05/02/2024 </span></b><p>
 En février, 2 types d'ateliers seront proposés : 
-<br/>
-- le  <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html"> (+d'infos) </a>
-- la <span style="color:LimeGreen"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html"> (+d'infos) </a>
+<br/><p>
+- le  <span style="color:LimeGreen"> <b>mini-cycle de 4 séances « Gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html"> (+d'infos) </a><p>
+- la <span style="color:LimeGreen"> <b>permanence en semi-autonomie. </b></span><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html"> (+d'infos) </a><p>
 
 
-Planning : 
-- 1 mini-cycle en <b><span style="color:DodgerBlue ">bleu</span></b>: les 20, 22, 27 et 29 février de 10h à 11h30
-- 1 mini-cycle en <b><span style="color:YellowGreen">vert</span></b>: les 20, 22, 27 et 29 février de 14h à 15h30
-- 3 permanences en <b><span style="color:LightCoral ">rose</span></b>: le 26 février ou le 04 mars ou le 06 mars de 14h à 17h
+Planning : <p>
+- 1 mini-cycle en <b><span style="color:DodgerBlue ">bleu</span></b>: les 20, 22, 27 et 29 février de 10h à 11h30<p>
+- 1 mini-cycle en <b><span style="color:YellowGreen">vert</span></b>: les 20, 22, 27 et 29 février de 14h à 15h30<p>
+- 3 permanences en <b><span style="color:LightCoral ">rose</span></b>: le 26 février ou le 04 mars ou le 06 mars de 14h à 17h<p>
 
-![Texte décrivant l'image]({% link images/planning.png %})
+<img alt="planning avril" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planning.png"  /><p>
 
-- Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.
-- Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.
+- Sur les mini-cycles, les personnes doivent être disponibles pour les 4 séances.<p>
+- Sur les perm, les personnes peuvent venir et repartir quand elles veulent sur le créneau.<p>
 
-Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> 
+Pour s'inscrire ou inscrire des personnes accompagnées, il suffit d'envoyer dès à présent un mail à : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
-Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : 
-- Groupe  bleu
-- Groupe vert
-- Groupe du 26
-- Groupe du 04
-- Groupe du 06
+Le mail doit préciser les : nom + prénom + téléphone ou contact des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant : <p>
+- Groupe  bleu<p>
+- Groupe vert<p>
+- Groupe du 26<p>
+- Groupe du 04<p>
+- Groupe du 06<p>
 
-<b>Les inscriptions seront confirmées à partir du 14 février 2024 </b>
+<b>Les inscriptions seront confirmées à partir du 14 février 2024 </b><p>
 
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
-(mais absente du 06 après-midi au 09 février) 
+(mais absente du 06 après-midi au 09 février) <p>
 
 ![Texte décrivant l'image]({% link images/banière basse.png %}) 
