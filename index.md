@@ -16,9 +16,9 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <br/>
 <p>
 En avril, 3 types d'ateliers seront proposés : <p>
-- le  <b>mini-cycle de 4 séances <span style="color:LimeGreen">« Mieux gérer son smartphone »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a><p>
-- le nouveau  <b>mini-cycle de 4 séances <span style="color:LimeGreen">« Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> <p>
-- la nouvelle <b>permamence <span style="color:LimeGreen">« Modifier un CV et rédiger une lettre »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a><p>
+- le mini-cycle de 4 séances <b><span style="color:LimeGreen">« Mieux gérer son smartphone » </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
+- le nouveau mini-cycle de 4 séances <b><span style="color:LimeGreen">« Voir ou revoir les bases de l'ordinateur »  </b></span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> <p>
+- la nouvelle permamence  <b><span style="color:LimeGreen">« Modifier un CV et rédiger une lettre »  </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
 
 Planning : <p>
 - Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: les 11, 16, 18 et 23 avril de 10h à 11h30.<p>
