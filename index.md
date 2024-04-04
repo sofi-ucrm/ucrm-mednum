@@ -114,4 +114,4 @@ Le mail doit préciser les : nom + prénom + téléphone ou contact des personne
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)
 (mais absente du 06 après-midi au 09 février) <p>
 
-![Texte décrivant l'image]({% link images/baniErebasse2.png %}) 
+![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
