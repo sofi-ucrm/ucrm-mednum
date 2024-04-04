@@ -72,10 +72,10 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 
-- Séance P1 : Voir ou revoir les bases : la souris, le clavier, les fenêtres, le bureau, les dossiers
-- Séance P2 : Taper un texte simple :  majuscules, chiffres, caractères spéciaux, mise en forme d'une sélection
-- Séance P3 : Naviguer sur Internet : navigateurs, moteurs de recherche, marques pages, onglets
-- Séance P4 : Se connecter à sa messagerie :  boite mail, pièces jointes, Sécurité
+- Séance P1 - Voir ou revoir les bases de la manipulation :  souris, clavier, fenêtres, bureau, dossiers, saisie et mise en forme d'un texte simple 
+- Séance P2 - Aller plus loin sur la saisie de texte : styles, table des matières, CV, lettres de motivation
+- Séance P3 - Voir ou revoir les bases de la navigation Internet : navigateurs, moteurs de recherche, boite mail
+- Séance P4 - Aller plus loin sur la navigation internet : sécurité, comptes en ligne, marques pages
 
 **Mode d’animation**  : exercices pratiques, mise en avant des connaissances des personnes, pauses, comparaison avec l'utilisation des smartphones
 
