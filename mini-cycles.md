@@ -34,7 +34,7 @@ A l'issue du parcours, les participant.e.s seront en capacité d'installer et de
  	&nbsp;
 </div>
 
-### <span style="color:limegreen"> Mini-cycle « Voir ou revoir les bases de l'ordinateur »  </span>
+### <span style="color:limegreen"> Mini-cycle : Voir ou revoir les bases de l'ordinateur  </span>
 
 
 **4 séances de 1h30** 
@@ -59,7 +59,7 @@ A l'issue du parcours, les participant.e.s seront en capacité de saisir un text
  	&nbsp;
 </div>
 
-### <span style="color:limegreen"> Court Circlic - Recondionner un ordinateur pour soi</span>
+### <span style="color:limegreen"> Court Circlic : Recondionner un ordinateur pour soi</span>
 **2 séances de 3h** 
 
 Groupe de **5 personnes** maximum. 
