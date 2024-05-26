@@ -14,10 +14,10 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <h3>Ateliers de juin 2024</h3>
 <p>
 En juin, 4 types d'ateliers seront proposés : <p>
-- le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Mieux gérer son smartphone » </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b> en <b><span style="color:DodgerBlue ">bleu</span></b>: Mercredi 05, Lundi 10, Mercredi 12, Lundi 17 - de 14h à 16h00<p>
-- le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Voir ou revoir les bases de l'ordinateur »  </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a> </b> en <b><span style="color:YellowGreen">vert</span></b>: Mardi 04, Mardi 11, Mardi 18, Mardi 25 - de 10h à 11h30<p>
-- la permamence bureautique <b><span style="color:DarkBlue">« Modifier un CV, rédiger une lettre, et autres...»  </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b>en <b><span style="color:LightCoral ">rose</span></b>: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h<p>
-- une expérimentation Court-Circlic <b><span style="color:DarkBlue">« Reconditionner pour soi un ordinateur »</span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#zeroeuros"> (+d'infos) </a></b>en <b><span style="color:LightCoral ">rose</span></b>: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h<p>
+- le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Mieux gérer son smartphone » </span> </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning: Mercredi 05, Lundi 10, Mercredi 12, Lundi 17 - de 14h à 16h00 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
+- le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Voir ou revoir les bases de l'ordinateur »  </span>  </b> en <b><span style="color:YellowGreen">vert</span></b> sur le planning: Mardi 04, Mardi 11, Mardi 18, Mardi 25 - de 10h à 11h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- la permamence bureautique <b><span style="color:DarkBlue">« Modifier un CV, rédiger une lettre, et autres...»  </span> </b>en <b><span style="color:LightCoral ">rose</span></b> sur le planning: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
+- une expérimentation Court-Circlic <b><span style="color:DarkBlue">« Reconditionner pour soi un ordinateur »</span> </b>en <b><span style="color:LightCoral ">mauve </span></b>sur le planning: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#zeroeuros"> (+d'infos) </a></b><p>
 <p>
 <br>
 <p>
