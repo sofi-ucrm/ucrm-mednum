@@ -27,7 +27,7 @@ Planning : <p>
 - Permanences Bureautiques en <b><span style="color:LightCoral ">rose</span></b>: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h<p>
 - Expérimentation Court-Circlic <b><span style="color:DarkOrchid">mauve</span></b>: Mardi 04, Mardi 11 - de 14h à 17h<p>
 <p>
-<img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024.png"  />
+<img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024_2.png"  />
 <p>
 - Sur les mini-cycles, les personnes doivent être - dans la mesure du possible - disponibles les 4 séances<p>
 - Sur les permanences bureautiques, les personnes peuvent s'inscrire pour 1 ou plusieurs sessions de leur choix<p>
