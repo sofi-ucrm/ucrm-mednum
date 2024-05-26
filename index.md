@@ -11,7 +11,7 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <br/>
 
 
-<h1>Ateliers de juin 2024</h1>
+<h3>Ateliers de juin 2024</h3>
 <p>
 En juin, 4 types d'ateliers seront proposés : <p>
 - le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Mieux gérer son smartphone » </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
@@ -21,31 +21,24 @@ En juin, 4 types d'ateliers seront proposés : <p>
 <p>
 <br>
 <p>
-Planning : <p>
-- Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: Mercredi 05, Lundi 10, Mercredi 12, Lundi 17 - de 14h à 16h00<p>
-- Mini-cycle smartphone en <b><span style="color:YellowGreen">vert</span></b>: Mardi 04, Mardi 11, Mardi 18, Mardi 25 - de 10h à 11h30<p>
-- Permanences Bureautiques en <b><span style="color:LightCoral ">rose</span></b>: Mardi 04, Lundi 24, Mercredi 26 - de 14h à 16h<p>
-- Expérimentation Court-Circlic <b><span style="color:DarkOrchid">mauve</span></b>: Mardi 04, Mardi 11 - de 14h à 17h<p>
+	
+<h3>Planning : </h3>
+ 
+
 <p>
 <img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024_2.png"  />
 <p>
 - Sur les mini-cycles, les personnes doivent être - dans la mesure du possible - disponibles les 4 séances<p>
-- Sur les permanences bureautiques, les personnes peuvent s'inscrire pour 1 ou plusieurs sessions de leur choix<p>
+- Pour les permanences bureautiques, les personnes peuvent s'inscrire sur 1 ou plusieurs sessions de leur choix<p>
 <p>
 
+
+<h3>Inscription : </h3>
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
-Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront l'atelier ainsi que le groupe demandé parmi les choix suivant :
-<ul>
-	<li>Groupe bleu ordinateur</li>
-	<li>Groupe vert smartphone</li>
-	<li>Groupe rose du 04</li>
-	<li>Groupe rose du 24</li>
-	<li>Groupe rose du 26</li>
-</ul>
+Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront l'atelier ainsi que le(s) groupe(s) demandé(s) ( Groupe bleu ordinateur, groupe vert smartphone, Groupe bureautique du 04, 24 ou 26.
 
-
-<b>Les inscriptions seront confirmées dès que possible </b><p>
+<b>Les inscriptions seront confirmées directement aux participant.e.s </b><p>
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)<p>
 <br/>
 <br/>
