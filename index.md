@@ -11,7 +11,7 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <br/>
 
 
-<h2>Ateliers de juin 2024</h2>
+<h1>Ateliers de juin 2024</h1>
 <p>
 En juin, 4 types d'ateliers seront proposés : <p>
 - le mini-cycle de 4 séances <b><span style="color:DarkBlue">« Mieux gérer son smartphone » </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
@@ -19,7 +19,7 @@ En juin, 4 types d'ateliers seront proposés : <p>
 - la permamence bureautique <b><span style="color:DarkBlue">« Modifier un CV, rédiger une lettre, et autres...»  </span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
 - une expérimentation Court-Circlic <b><span style="color:DarkBlue">« Reconditionner pour soi un ordinateur »</span> <a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#zeroeuros"> (+d'infos) </a></b><p>
 <p>
-
+<br>
 <p>
 Planning : <p>
 - Mini-cycle ordinateurs en <b><span style="color:DodgerBlue ">bleu</span></b>: Mercredi 05, Lundi 10, Mercredi 12, Lundi 17 - de 14h à 16h00<p>
