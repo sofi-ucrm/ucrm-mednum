@@ -7,8 +7,6 @@ in_menu: true
 <h1>Bienvenue sur la page des ateliers numériques du 108</h1>
 
 Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage - 108 route d’Espagne – 31 100 Toulouse**. 
-<p>
-<br/>
 
 <p>
 <br/>
