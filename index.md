@@ -29,7 +29,7 @@ Planning : <p>
 <p>
 <img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024.png"  />
 <p>
-- Sur les mini-cycles, les personnes doivent être si possible disponibles les 4 séances<p>
+- Sur les mini-cycles, les personnes doivent être - dans la mesure du possible - disponibles les 4 séances<p>
 - Sur les permanences bureautiques, les personnes peuvent s'inscrire pour 1 ou plusieurs sessions de leur choix<p>
 <p>
 
