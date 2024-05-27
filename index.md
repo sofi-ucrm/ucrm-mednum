@@ -21,7 +21,7 @@ En juin, 4 types d'ateliers seront proposés : <p>
 <h3>Planning de Juin: </h3>
  
 <p>
-<img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024_2.png"  />
+<img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024.png"  />
 <p>
 
 
