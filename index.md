@@ -10,7 +10,7 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <p>
 <br/>
 
-<p>
+<h3>Planning de Juin: </h3>
 En juin, 4 types d'ateliers seront proposés : <p>
 - le mini-cycle de 4 séances « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning: Mercredi 05, Lundi 10, Mercredi 12, Lundi 17 - de 14h à 16h00 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
 - le mini-cycle de 4 séances « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Mardi 04, Mardi 11, Mardi 18, Mardi 25 - de 10h à 11h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
@@ -18,14 +18,9 @@ En juin, 4 types d'ateliers seront proposés : <p>
 - une expérimentation <b>COURT-CIRCLIC </b> pour « Reconditionner un ordinateur pour soi» en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning: Mardi 18 et Mardi 25 - de 14h à 17h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#zeroeuros"> (+d'infos) </a></b><p>
 <p>
 <br>
-<h3>Planning de Juin: </h3>
- 
-<p>
 <img alt="planning juin" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningjuin2024.png"  />
 <p>
 
-
-	
 Sur les mini-cycles, les personnes doivent être - dans la mesure du possible - disponibles les 4 séances.<p>
 Pour les ateliers bureautiques, les personnes peuvent s'inscrire sur 1 ou plusieurs sessions de leur choix. <p>
 Sur ateliers Court-circlic, la présence aux 2 séances est obligatoire. 
@@ -35,9 +30,9 @@ Sur ateliers Court-circlic, la présence aux 2 séances est obligatoire.
 <h3>Inscription : </h3>
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
-Merci de préciser les : NOM + Prénom + Téléphone des personnes qui suivront l'atelier ainsi que le(s) groupe(s) demandé(s). En cas de demandes trop nombreuses, une liste d'attente pourra être constituée. 
+Merci de préciser les : NOM + Prénom + Téléphone de la personne qui suivra l'atelier ainsi que le ou les groupes demandés. En cas de demandes trop nombreuses, une liste d'attente pourra être constituée. 
 
-<b>Les inscriptions seront confirmées directement aux participant.es. </b><p>
+<b>Les inscriptions seront confirmées directement aux participants et participantes. </b><p>
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)<p>
 <br/>
 <br/>
