@@ -66,8 +66,15 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 
-- Séance 1 : 
-- Séance 2 : 
+- Séance 1 - Voir ou revoir les bases de la manipulation (souris, clavier
+- Séance 2 - Voir ou revoir les bases de la navigation Internet 
+
+**Public concerné** : Toute personnes en situation de précarité .  L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Merci de préciser en cas de besoin spécifiques. Des loupes, lumières aditionnelles pourront mise en place.  Les personnes doivent avoir envie de fonctionner en groupe. 
+</br>
+A l'issue du parcours, les participant.e.s seront en capacité de saisir un texte simple, de naviguer sur internet et de se connecter à leur messagerie.
+
+**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre ordinateur </span> </b>, Connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
+
 
 
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
