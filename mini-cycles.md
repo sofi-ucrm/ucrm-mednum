@@ -66,14 +66,15 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 
-- Séance 1 - Voir ou revoir les bases de la manipulation (souris, clavier
-- Séance 2 - Voir ou revoir les bases de la navigation Internet 
+-	Atelier 1 : accueil, sensibilisation à la sobriété numérique matérielle, bases du reconditionnement d’1 ordinateur, choix d’1 ordinateur à reconditionner suivi d'1 diagnostic matériel 
+-	Atelier 2 :  sensibilisation au logiciel libre, bases sur les systèmes d’exploitation et les logiciels, installation d’1 système et des logiciels utiles sur l’ordinateur choisi
+-	Post : poursuite optionnelle dans un parcours « autonomie ordinateur »
 
-**Public concerné** : Toute personnes en situation de précarité .  L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Merci de préciser en cas de besoin spécifiques. Des loupes, lumières aditionnelles pourront mise en place.  Les personnes doivent avoir envie de fonctionner en groupe. 
-</br>
-A l'issue du parcours, les participant.e.s seront en capacité de saisir un texte simple, de naviguer sur internet et de se connecter à leur messagerie.
 
-**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre ordinateur </span> </b>, Connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
+**Public concerné** : Toute personnes en situation de précarité, francophone ou niveau B1 minimum. Les personnes doivent avoir envie de fonctionner en groupe. 
+A l'issue du parcours, les participant.e.s repartent gratuitement avec un ordinateur.
+
+**Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Merci de préciser en cas de besoin spécifiques. Des loupes, lumières aditionnelles pourront être mises en place.
 
 
 
