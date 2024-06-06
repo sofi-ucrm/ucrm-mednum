@@ -74,7 +74,7 @@ Groupe de **5 personnes** maximum.
 **Public concerné** : Toute personne en situation de précarité. Pas de prérequis concernant la pratique de l’ordinateur. Francophone ou niveau de français B1 minimum ou avec interprète. Les personnes doivent avoir envie de fonctionner en groupe. 
 A l'issue du parcours, les participant.e.s repartent gratuitement avec un ordinateur.
 
-**Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Merci de préciser en cas de besoin spécifiques. Des loupes, lumières aditionnelles pourront être mises en place.
+**Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Des loupes, lumières aditionnelles pourront être mises en place. Merci de demander en cas de besoins spécifiques.
 
 
 
