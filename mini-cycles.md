@@ -6,6 +6,7 @@ in_menu: true
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Voir ou revoir les bases de l'ordinateur » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#zeroeuros"> Mini-cycle « Reconditionner un ordinateur pour soi» </a></b></span>
+- <span style="color:Tomato"> <b> <a href="#TRE"> Mini-cycle « Techniques de Recherche d'Emploi et les CV Canva» </a></b></span>
 
 <div id="smartphone">
  	&nbsp;
@@ -76,6 +77,22 @@ A l'issue du parcours, les participant.e.s repartent gratuitement avec un ordina
 
 **Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Des loupes, lumières aditionnelles pourront être mises en place. Merci de demander en cas de besoins spécifiques.
 
+<div id="tre">
+ 	&nbsp;
+</div>
 
+### <span style="color:limegreen"> Techniques de Recherche d'Emploi et utiliser Canva</span>
+**2 séances de 1h30** 
+
+Groupe de **5 personnes** maximum. 
+
+**Programme** (Indicatif)
+
+-	Atelier 1 : Techniques de Recherche d'emploi avec Natacha (Conseillère en Insertion Professionnelle sur les parcours UCRM)
+-	Atelier 2 : Utilisation de l'application CANVA (sur Smartphone ou Ordinateur) pour 
+
+**Public concerné** : Toute personne en recherche d'emploi. Francophone ou niveau de français B1 minimum. Les personnes doivent avoir envie de fonctionner en groupe.
+
+**Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Des loupes, lumières aditionnelles pourront être mises en place. Merci de demander en cas de besoins spécifiques.
 
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
