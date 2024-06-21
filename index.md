@@ -10,6 +10,19 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
 <p>
 <br/>
 
+ 
+<h3>Planning de Juillet: </h3>
+En juillet sont proposés : <p>
+- 1 mini-cycle de 4 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning:  Mardi 15, Jeudi 17, Mardi 22, Jeudi 24 - de 10h30 à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Mercredi 03, Jeudi 04, Mercredi 10, Jeudi 11 - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:Gold">jaune</span></b> sur le planning: Mercredi 16, Lundi 18, Mercredi 23, Lundi 15 - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- l'atelier <b>BUREAUTIQUE</b> pour écrire et envoyer des documents, faire des recherches,...»  en <b><span style="color:Fuchsia ">rose</span></b> sur le planning: Lundi 01, Lundi 08, Lundi 22 - de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 2 ateliers <b> Techniques de Recherche d'Emploi </b> avec Natacha, Conseillère en Insertion Professionnelle en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning: Lundi 15 et Mardi 16 - de 14h à 15h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#tre"> (+d'infos) </a></b><p>
+<p>
+<br>
+<img alt="planning juillet" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJuillet2024.png"  />
+<p>
+
 <h3>Planning de Juin: </h3>
 En juin, 4 types d'ateliers seront proposés : <p>
 - le mini-cycle de 4 séances « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning:  Mardi 04, Mardi 11, Mardi 18, Mardi 25 - de 10h à 11h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
@@ -22,8 +35,7 @@ En juin, 4 types d'ateliers seront proposés : <p>
 <p>
 
 Sur les mini-cycles, les personnes doivent être - dans la mesure du possible - disponibles les 4 séances.<p>
-Pour les ateliers bureautiques, les personnes peuvent s'inscrire sur 1 ou plusieurs sessions de leur choix. <p>
-Sur ateliers Court-circlic, la présence aux 2 séances est obligatoire. 
+Pour les ateliers BUREAUTIQUE, les personnes peuvent choisir de venir à 1 ou plusieurs ateliers. <p>
 <p>
 
 
