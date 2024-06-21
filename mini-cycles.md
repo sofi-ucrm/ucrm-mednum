@@ -89,10 +89,10 @@ Groupe de **5 personnes** maximum.
 **Programme** (Indicatif)
 
 -	Atelier 1 : Techniques de Recherche d'emploi avec Natacha (Conseillère en Insertion Professionnelle sur les parcours UCRM)
--	Atelier 2 : Utilisation de l'application CANVA (sur Smartphone ou Ordinateur) pour 
+-	Atelier 2 : Utilisation de l'application CANVA (sur Smartphone ou Ordinateur) pour gérer facilement plusieurs CV (par exemple)
 
 **Public concerné** : Toute personne en recherche d'emploi. Francophone ou niveau de français B1 minimum. Les personnes doivent avoir envie de fonctionner en groupe.
 
-**Conditions matérielles** : L'atelier nécessite des manipulations fines (exemple: dévisser des petites vis d'ordinateur). Des loupes, lumières aditionnelles pourront être mises en place. Merci de demander en cas de besoins spécifiques.
+**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leurs propres ordinateur et smartphone </span> </b>, Connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
 
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
