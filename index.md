@@ -13,9 +13,9 @@ Des ateliers de médiation numériques sont proposés à l'UCRM au **2° étage 
  
 <h3>Planning de Juillet: </h3>
 En juillet sont proposés : <p>
-- 1 mini-cycle de 4 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning:  Mardi 15, Jeudi 17, Mardi 22, Jeudi 24 - de 10h30 à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:DodgerBlue ">bleu </span></b>sur le planning:  Lundi 15, Mercredi 17, Lundi 22, Mercredi 24 - de 10h30 à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Mercredi 03, Jeudi 04, Mercredi 10, Jeudi 11 - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
-- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:Gold">jaune</span></b> sur le planning: Mercredi 16, Lundi 18, Mercredi 23, Lundi 15 - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:Gold">jaune</span></b> sur le planning: Mardi 16, Jeudi 18, Mardi 23, Jeudi 25   - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
 - l'atelier <b>BUREAUTIQUE</b> pour écrire et envoyer des documents, faire des recherches,...»  en <b><span style="color:Fuchsia ">rose</span></b> sur le planning: Lundi 01, Lundi 08, Lundi 22 - de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 2 ateliers <b> Techniques de Recherche d'Emploi </b> avec Natacha, Conseillère en Insertion Professionnelle en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning: Lundi 15 et Mardi 16 - de 14h à 15h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#tre"> (+d'infos) </a></b><p>
 <p>
