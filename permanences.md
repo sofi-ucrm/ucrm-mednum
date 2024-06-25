@@ -4,7 +4,7 @@ order: 2
 in_menu: true
 ---
 - <span style="color:Tomato"> <b> <a href="#autonomie"> Permanence en autonomie : mise à disposition de la salle numérique</a></b></span>
-- <span style="color:Tomato"> <b> <a href="#cv_lettre"> Permanence thématique : CV et lettre</a></b></span>
+- <span style="color:Tomato"> <b> <a href="#cv_lettre"> Atelier Bureautique</a></b></span>
 
 <div id="autonomie">
  	&nbsp;
@@ -40,22 +40,20 @@ in_menu: true
 </div>
 
 
-### <span style="color:LimeGreen">Permanence thématique : mettre à jour un CV et mettre en forme une lettre</span>
+### <span style="color:LimeGreen">Atelier Bureautique</span>
 
 **Séances de 2h** 
 
 **Groupe de 5 personnes** maximum. 
 
-**Programme** : Mettre à jour son CV ou mettre en forme une lettre
+**Programme** : Revoir les bases du traitement de texte
 
 **Mode d’animation** : soutien, partage de trucs et astuces, conseils pour s'entrainer, … 
 
 
-**Public concerné** : Les personnes qui souhaitent modifier un CV ou rédiger une lettre. Les personnes doivent avoir envie de fonctionner au sein d'un groupe. 
-</br>
+**Public concerné** : par exemple, les personnes qui souhaitent modifier un CV ou rédiger une lettre . Les personnes doivent avoir envie de fonctionner au sein d'un groupe et déjà connaitre un peu l'ordinateur. 
 
-**Conditions matérielles** : les participant.e.s <b><span style="color:OrangeRed">doivent venir avec un CV à mettre à jour.</span></b>, la **connexion wifi** 5G sera fournie. 
-<br/>
+**Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs peuvent être prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre ordinateur </span> </b>, la connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
 
 
 ![Texte décrivant l'image]({% link images/banière basse avec UCRM.png %}) 
