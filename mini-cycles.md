@@ -88,7 +88,7 @@ Groupe de **5 personnes** maximum.
 
 **Programme** (Indicatif)
 
--	Atelier 1 : Techniques de Recherche d'emploi avec Natacha (Conseillère en Insertion Professionnelle sur les parcours UCRM)
+-	Atelier 1 : Techniques de Recherche d'emploi avec Natacha (Conseillère en Insertion Professionnelle sur les parcours UCRM). Le contenu porte sur le CV et notamment : comprendre les différentes formes de CV, connaitre les attentes du recruteur, savoir comment personnaliser et adapter son CV en fonction de l’offre. 
 -	Atelier 2 : Utilisation de l'application CANVA (sur Smartphone ou Ordinateur) pour gérer facilement plusieurs CV (par exemple)
 
 **Public concerné** : Toute personne en recherche d'emploi. Francophone ou niveau de français B1 minimum. Les personnes doivent avoir envie de fonctionner en groupe.
