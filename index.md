@@ -20,7 +20,7 @@ En juillet sont proposés : <p>
 - 1 mini-cycle de 2 ateliers <b> Techniques de Recherche d'Emploi </b> avec Natacha, Conseillère en Insertion Professionnelle en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning: Lundi 15 et Mardi 16 - de 14h à 15h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#tre"> (+d'infos) </a></b><p>
 <p>
 <br>
-<img alt="planning juillet" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJuillet2024_2.png"  />
+<img alt="planning juillet" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJuillet2024.png"  />
 <p>
 
 <h3>Planning de Juin: </h3>
