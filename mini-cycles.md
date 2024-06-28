@@ -6,7 +6,7 @@ in_menu: true
 - <span style="color:Tomato"> <b> <a href="#smartphone"> Mini-cycle « Gérer son smartphone » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#ordinateur"> Mini-cycle « Voir ou revoir les bases de l'ordinateur » </a></b></span>
 - <span style="color:Tomato"> <b> <a href="#zeroeuros"> Mini-cycle « Reconditionner un ordinateur pour soi» </a></b></span>
-- <span style="color:Tomato"> <b> <a href="#TRE"> Mini-cycle « Techniques de Recherche d'Emploi et les CV Canva» </a></b></span>
+- <span style="color:Tomato"> <b> <a href="#tre"> Mini-cycle « Techniques de Recherche d'Emploi et les CV Canva» </a></b></span>
 
 <div id="smartphone">
  	&nbsp;
