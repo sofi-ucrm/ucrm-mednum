@@ -25,10 +25,10 @@ Groupe de **5 personnes** maximum.
 - Séance 4 : au choix selon les besoins du groupe
 
 **Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien. Les personnes doivent avoir envie de fonctionner en groupe.
-</br>
-A l'issue du parcours, les participant.e.s seront en capacité d'installer et de désinstaller des applications, de gérer le stockage, d'utiliser des applications du quotidien
+<br>
+A l'issue du parcours, les participant.e.s seront en capacité d'installer et de désinstaller des applications, de gérer le stockage, d'utiliser des applications du quotidien.
 
-**Conditions matérielles** : les participant.e.s <b><span style="color:OrangeRed">doivent venir avec leur smartphone</span></b>, des ordinateurs seront prêtés mais si les personnes veulent venir avec le leur c’est OK, la **connexion wifi** 5G sera fournie.
+**Conditions matérielles** : les participant.e.s <b><span style="color:OrangeRed">doivent venir avec leur smartphone</span></b>, la connexion <b><span style="color:OrangeRed">wifi 5G</span> est fournie </b>
 
 
 <div id="ordinateur">
@@ -51,7 +51,7 @@ Groupe de **5 personnes** maximum.
 
 
 **Public concerné** : Les personnes qui veulent voir ou revoir les bases de l'ordinateur.  Les personnes doivent avoir envie de fonctionner en groupe. 
-</br>
+<br>
 A l'issue du parcours, les participant.e.s seront en capacité de saisir un texte simple, de naviguer sur internet et de se connecter à leur messagerie.
 
 **Conditions matérielles** : <b><span style="color:OrangeRed">Des ordinateurs seront prêtés</span></b>, les participant.e.s peuvent aussi venir avec  <b><span style="color:OrangeRed">leur propre ordinateur </span> </b>, Connexion  <b><span style="color:OrangeRed">wifi 5G fournie</span> </b>.
