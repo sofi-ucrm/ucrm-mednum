@@ -10,10 +10,13 @@ Les ateliers numériques ont lieu au ** 108 route d’Espagne – 31 100 Toulous
 <p>
 <br/>
 
-<h3>Planning de Août : </h3>
-Pas d'ateliers en Août, reprise vers le 10 septembre. L'agenda sera publié le 05 septembre. Bonnes vancances à toustes !!
-<p>
+<h3>Planning d'Août : </h3>
+Pas d'ateliers en Août, reprise vers le 10 septembre. L'agenda de ** Septembre** sera publié le 05 septembre. Bonnes vacances à toustes !!
 
+<p>
+<br>
+<img alt="planning juillet" src="https://sofi-ucrm.github.io/ucrm-mednum/images/Bretagne.jpg"  />
+<p>
  
 <h3>Planning de Juillet: </h3>
 En juillet sont proposés : <p>
