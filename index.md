@@ -11,7 +11,7 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <br/>
 
 <h3>Planning d'Août : </h3>
-Pas d'ateliers en Août, reprise vers le 10 Septembre. L'agenda de **Septembre** sera publié le 05 septembre. Bonnes vacances à tous et toutes !!
+Pas d'ateliers en Août, reprise vers le 10 Septembre. L'agenda de <b>Septembre</b> sera publié le 05 septembre. Bonnes vacances à tous et toutes !!
 
 <p>
 <br>
