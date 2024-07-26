@@ -6,12 +6,12 @@ in_menu: true
 ![Logo UCRM]({% link images/UCRM.jpg %})
 <h1>Bienvenue sur la page des ateliers numériques du 108</h1>
 
-Les ateliers numériques ont lieu au ** 108 route d’Espagne – 31 100 Toulouse**. 
+Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. 
 <p>
 <br/>
 
 <h3>Planning d'Août : </h3>
-Pas d'ateliers en Août, reprise vers le 10 septembre. L'agenda de ** Septembre** sera publié le 05 septembre. Bonnes vacances à toustes !!
+Pas d'ateliers en Août, reprise vers le 10 Septembre. L'agenda de **Septembre** sera publié le 05 septembre. Bonnes vacances à tous et toutes !!
 
 <p>
 <br>
