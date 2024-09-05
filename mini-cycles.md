@@ -19,7 +19,7 @@ in_menu: true
 Groupe de **5 personnes** maximum. 
 **Programme** (Indicatif)
 
-- Séance 1 : accueil, notions sur le stockage, mises en situation sur des application de scans et de génération 
+- Séance 1 : accueil, notions sur le stockage, mises en situation sur des application de scans et de génération de PDF 
 - Séance 2 : notions sur les applications et les mots de passe, mises en situation sur les applications du quotidien
 
 **Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien. Les personnes doivent avoir envie de fonctionner en groupe. Le contenu des séances se fait en fonction des besoins des personnes du groupe
