@@ -20,7 +20,8 @@ En septembre sont proposés : <p>
 <br>
 <img alt="planning juillet" src="https://sofi-ucrm.github.io/ucrm-mednum/images/PlanningSeptembre2024.png"  />
 <p>
- 
+
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Inscriptions </a></b></span>)
 
 <h3>Planning d'Août: </h3>
 Pas d'ateliers en Août, reprise vers le 10 Septembre. L'agenda de <b>Septembre</b> sera publié le 05 septembre. Bonnes vacances à tous et toutes !!
@@ -58,6 +59,9 @@ Pour les ateliers BUREAUTIQUE, les personnes peuvent choisir de venir à 1 ou pl
 <p>
 
 
+<div id="inscriptions">
+ 	&nbsp;
+</div>
 <h3>Inscription : </h3>
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
