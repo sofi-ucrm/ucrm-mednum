@@ -13,7 +13,7 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <h3>Planning de Septembre: </h3>
 
 En septembre sont proposés : <p>
-- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlueGold">bleu</span></b> sur le planning: Mardi 17, Jeudi 19, Mardi 24, Jeudi 27   - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlue">bleu</span></b> sur le planning: Mardi 17, Jeudi 19, Mardi 24, Jeudi 27   - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 2 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:ForestGreen ">vert </span></b>sur le planning: Mardi 17, Jeudi 19 - de 14h00 à 15h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 2 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:Gold ">jaune </span></b>sur le planning:  Mardi 24, Jeudi 27 - de 14h00 à 15h30 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
 <p>
@@ -22,7 +22,7 @@ En septembre sont proposés : <p>
 <p>
  
 
-<h3>Planning d'Août et de Septembre: </h3>
+<h3>Planning d'Août: </h3>
 Pas d'ateliers en Août, reprise vers le 10 Septembre. L'agenda de <b>Septembre</b> sera publié le 05 septembre. Bonnes vacances à tous et toutes !!
 
 <p>
