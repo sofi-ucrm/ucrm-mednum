@@ -14,19 +14,17 @@ in_menu: true
 
 ### <span style="color:limegreen"> Mini-cycle : Mieux gérer son smartphone au quotidien</span>
 
-**4 séances de 1h30** 
+**2 séances de 1h30** 
 
 Groupe de **5 personnes** maximum. 
 **Programme** (Indicatif)
 
 - Séance 1 : accueil, notions sur le stockage, mises en situation sur des application de scans et de génération 
-- Séance 2 : notions sur les applications, mises en situation sur les applications du quotidien
-- Séance 3 : notions sur les mots de passe et mises en situation sur les espaces administratifs
-- Séance 4 : au choix selon les besoins du groupe
+- Séance 2 : notions sur les applications et les mots de passe, mises en situation sur les applications du quotidien
 
-**Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien. Les personnes doivent avoir envie de fonctionner en groupe.
+**Public concerné** : Les personnes qui souhaitent améliorer leurs usages du smartphone au quotidien. Les personnes doivent avoir envie de fonctionner en groupe. Le contenu des séances se fait en fonction des besoins des personnes du groupe
 <br>
-A l'issue du parcours, les participant.e.s seront en capacité d'installer et de désinstaller des applications, de gérer le stockage, d'utiliser des applications du quotidien.
+A l'issue du parcours, les participant.e.s seront plus à l'aise pour installer et désinstaller des applications, gérer le stockage, utiliser des applications du quotidien.
 
 **Conditions matérielles** : les participant.e.s <b><span style="color:OrangeRed">doivent venir avec leur smartphone</span></b>, la connexion <b><span style="color:OrangeRed">wifi 5G</span> est fournie </b>
 
