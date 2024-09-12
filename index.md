@@ -10,6 +10,11 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <p>
 <br/>
 
+
+<h3>Planning d'Octobre: </h3>
+Les ateliers de septembre sont complets. Il est possible de d'inscrire en liste d'attente pour Octobre.  
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Octobre </a></b></span>)
+
 <h3>Planning de Septembre: </h3>
 
 En septembre sont proposés : <p>
@@ -65,7 +70,7 @@ Pour les ateliers BUREAUTIQUE, les personnes peuvent choisir de venir à 1 ou pl
 <h3>Inscription : </h3>
 <b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
 
-Merci de préciser les : NOM + Prénom + Téléphone de la personne qui suivra l'atelier ainsi que le ou les groupes demandés. En cas de demandes trop nombreuses, une liste d'attente pourra être constituée. 
+Merci de préciser les : NOM + Prénom + Téléphone de la personne qui suivra l'atelier ainsi que le ou les groupes demandés. En cas de demandes trop nombreuses, une <b>liste d'attente</b> pourra être constituée. 
 
 <b>Les inscriptions seront confirmées directement aux participants et participantes. </b><p>
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)<p>
