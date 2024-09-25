@@ -10,11 +10,24 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <p>
 <br/>
 
+<h3>Planning de Novembre: </h3>
+Si les dates ne conviennent pas ou si les ateliers sont complets, il est possible de s'inscrire en liste d'attente pour Novembre.  
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Novembre. </a></b></span>)
+
 
 <h3>Planning d'Octobre: </h3>
-Les ateliers de septembre sont complets. Il est possible de d'inscrire en liste d'attente pour Octobre.  
-(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Octobre </a></b></span>)
 
+En Octobre sont proposés : <p>
+- l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : vendredi 04, Vendredi 11 - de 10h à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlue">bleu</span></b> sur le planning: Mardi 15 Octobre, Mardi 22 Octobre, Mardi 29 Octobre, Mardi 05 Novembre - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Mardi 22, Jeudi 24, Mardi 29, Jeudi 31 - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 2 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:Gold ">jaune </span></b>sur le planning: mercredi 09, mercredi 16 - de 10h30 à 12h00 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
+<p>
+<br>
+<img alt="planning septembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningOctobre.png"  />
+<p>
+
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Inscriptions </a></b></span>)
 <h3>Planning de Septembre: </h3>
 
 En septembre sont proposés : <p>
