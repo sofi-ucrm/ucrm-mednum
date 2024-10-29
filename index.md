@@ -11,7 +11,7 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <br/>
 
 <h3>Planning de Décembre: </h3>
-Les groupes bleu et rose sont complets en Octobre, il reste 1 place sur le groupe jaune et plusieurs sur le groupe vert. Il est possible de s'inscrire en liste d'attente pour Novembre.  Les ateliers au 108 auront lieu la seconde quinzaine. 
+Les ateliers de décembre au 108 auront lieu la seconde quinzaine du mois. 
 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Novembre. </a></b></span>)
 
 
