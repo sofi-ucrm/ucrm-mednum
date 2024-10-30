@@ -6,14 +6,14 @@ in_menu: true
 ![Logo UCRM]({% link images/UCRM.jpg %})
 <h1>Bienvenue sur la page des ateliers numériques du 108</h1>
 
-Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. 
+Les ateliers numériques ont lieu en général au **108 route d’Espagne – 31 100 Toulouse**. 
 <p>
 <br/>
 
 Si les dates de novembre ne conviennent pas, vous pouvez pré-inscrire des personnes pour décembre. Les ateliers de décembre au 108 débuteront lors de la seconde quinzaine du mois. (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Décembre. </a></b></span>)
 
-SI ce n'est pas déjà fait, n'hésitez pas à remplir le questionnaire. C'est court :)
-<iframe src="https://framaforms.org/ateliers-numeriques-1730027871" width="100%" height="800" border="0"></iframe>
+Si ce n'est pas déjà fait, n'hésitez pas à remplir le questionnaire. C'est assez court ! Merci.
+<a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a>
 
 <h3>Planning de Novembre: </h3>
 
