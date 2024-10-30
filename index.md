@@ -23,7 +23,7 @@ En Novembre sont proposés : <p>
 - Vous accompagnez des personnes qui ont des ordinateurs qui rament ou qui ne démarrent plus ? La collègue médiatrice numérique CNFS de la régie de quartier Desbals Service lance au BAB (Parc du couserans à Bagatelle) des permanences d'autoréparation ouverts à tous.tes les mardi matin. Sur les mardis de novembre, j'y serai aussi pour contribuer au lancement. </a></b><p>
 <p>
 <br>
-<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningNovembre.png"  />
+<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningNovembre2.png"  />
 <p>
 
 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Inscriptions </a></b></span>)
