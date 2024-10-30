@@ -10,17 +10,16 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 <p>
 <br/>
 
-<h3>Planning de Décembre: </h3>
-Les ateliers de décembre au 108 auront lieu la seconde quinzaine du mois. 
-(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Novembre. </a></b></span>)
+Les ateliers de décembre au 108 auront lieu la seconde quinzaine du mois de décembre. 
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Décembre. </a></b></span>)
 
 
 <h3>Planning de Novembre: </h3>
 
 En Novembre sont proposés : <p>
-- l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : vendredi 15 Novembre, Vendredi 29 - de 10h à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
+- l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : vendredi 15 Novembre, Vendredi 29 Novembre- de 10h à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlue">bleu</span></b> sur le planning: Mercredi 15 Novembre, Mercredi 22 Novembre, Mercredi 29 Novembre, Mercredi 06 Décembre - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
-- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Jeudi 14 Novembre, Jeudi 21 Novembre, Jeudi 28 Novembre, Jeudi 07 Décembre - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» <b><span style="color:ForestGreen">vert</span></b> sur le planning: Jeudi 14 Novembre, Jeudi 21 Novembre, Jeudi 28 Novembre, Jeudi 07 Décembre - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b>. Etant donné les préinscriptions, la bureautique sera à l'honneur.<p>
 - Vous accompagnez des personnes qui ont des ordinateurs qui rament ou qui ne démarrent plus ? La collègue médiatrice numérique CNFS de la régie de quartier Desbals Service lance au BAB (Parc du couserans à Bagatelle) des permanences d'autoréparation ouverts à tous.tes les mardi matin. Sur les mardis de novembre, j'y serai aussi pour contribuer au lancement. </a></b><p>
 <p>
 <br>
