@@ -12,7 +12,7 @@ Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse
 Merci de noter que les <span style="color:LimeGreen"><b>les ateliers de novembre sont quasi complets</b></span>. Vous pouvez pré-inscrire des personnes pour les prochains ateliers qui débuteront lors de la seconde quinzaine du mois de décembre. (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Décembre </a></b></span>). L'agenda prendra en compte les demandes en attente. 
 <p>
 <br/>
-Et si ce n'est pas déjà fait, <span style="color:OrangeRed"><b>n'hésitez pas à remplir le<a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>. C'est assez court ! Merci.
+Et si ce n'est pas déjà fait, <span style="color:OrangeRed"><b>n'hésitez pas à remplir le <a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>. C'est assez court ! Merci.
 
 
 <h3>Planning de Novembre: </h3>
@@ -34,7 +34,7 @@ En Novembre sont proposés : <p>
 En Octobre sont proposés : <p>
 - l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : vendredi 04, Vendredi 11 - de 10h à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlue">bleu</span></b> sur le planning: Mardi 15 Octobre, Mardi 22 Octobre, Mardi 29 Octobre, Mardi 05 Novembre - de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
-- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:ForestGreen">vert</span></b> sur le planning: Mardi 22, Jeudi 24, Mardi 29, Jeudi 31 - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:LimeGreen">vert</span></b> sur le planning: Mardi 22, Jeudi 24, Mardi 29, Jeudi 31 - de 14h à 16h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b><p>
 - 1 mini-cycle de 2 ateliers « Mieux gérer son <b>SMARTPHONE » </b> en <b><span style="color:Gold ">jaune </span></b>sur le planning: mercredi 09, mercredi 16 - de 10h30 à 12h00 <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles.html#smartphone"> (+d'infos) </a></b><p>
 <p>
 <br>
