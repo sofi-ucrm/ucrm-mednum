@@ -9,7 +9,10 @@ in_menu: true
 Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. 
 <p>
 <br/>
-Merci de noter que les <span style="color:LimeGreen"><b>les ateliers de novembre - début décembre sont quasi complets</b></span>. Le reste du mois de décembre sera dédié à l'évaluation (+congés :) ). Vous pouvez pré-inscrire des personnes pour les prochains ateliers qui auront lieu en janvier 2025 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Janvier 2025 </a></b></span>). L'agenda prendra en compte vos différentes demandes. 
+Merci de noter que les <span style="color:LimeGreen"><b>les ateliers de novembre - début décembre sont quasi complets</b></span>. Le reste du mois de décembre sera dédié à l'évaluation (+congés :) ). 
+ <p>
+<br/>
+Vous pouvez pré-inscrire des personnes pour les prochains ateliers qui auront lieu en janvier 2025 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Janvier 2025 </a></b></span>). L'agenda prendra en compte vos différentes demandes. 
 <p>
 <br/>
 Et si ce n'est pas déjà fait, <span style="color:OrangeRed"><b>n'hésitez pas à remplir le <a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>. C'est assez court ! Merci.
