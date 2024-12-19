@@ -25,7 +25,7 @@ En Janvier sont ouverts  : <p>
 - Vous accompagnez des personnes qui ont <b>des ordinateurs qui rament ou qui ne démarrent plus </b> ? La collègue médiatrice numérique CNFS de la régie de quartier Desbals Services lance au BAB (Parc du couserans à Bagatelle) des permanences d'autoréparation tous les mardi matin, en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning. En janvier, j'y serai aussi. C'est ouvert à tout le monde. N'hésitez pas à revenir vers moi en cas de question. <p>
 <p>
 <br>
-<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJanvier2025.png"  />
+<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJanvier2025_2.png"  />
 <p>
 
 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Inscriptions </a></b></span>)
