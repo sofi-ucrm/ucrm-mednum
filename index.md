@@ -9,7 +9,7 @@ in_menu: true
 Si ce n'est pas précisé sur le planning , c'est que les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. Seuls ces ateliers sont ouverts aux inscriptions. 
 <p>
 <br/>
-Merci de noter que les <span style="color:LimeGreen"><b>Les ateliers de janvier - début février sont quasi complets du fait des pré-inscriptions et poursuites.</b></span>.
+Merci de noter que les <span style="color:LimeGreen"><b>Les ateliers de janvier - début février sont quasi complets du fait des pré-inscriptions. </b></span>.
 <br/>
 Vous pouvez bien sûr me contacter pour pré-inscrire des personnes pour les prochains ateliers mais merci de prendre note que la poursuite des ateliers numérique est en cours de réflexion (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions 2025 </a></b></span>).
 <p>
