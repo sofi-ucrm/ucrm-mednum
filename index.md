@@ -4,17 +4,34 @@ order: 0
 in_menu: true
 ---
 ![Logo UCRM]({% link images/UCRM.jpg %})
-<h1>Bienvenue sur la page des ateliers numériques du 108</h1>
+<h1>Bienvenue sur la page des ateliers numériques</h1>
 
-Les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. 
+Si ce n'est pas précisé sur le planning , c'est que les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. Seuls ces ateliers sont ouverts aux inscriptions. 
 <p>
 <br/>
-Merci de noter que les <span style="color:LimeGreen"><b>les ateliers de novembre - début décembre sont quasi complets</b></span>. Le reste du mois de décembre sera dédié à une étape d'évaluation ... et à des congés :) Si ce n'est pas déjà fait, <span style="color:OrangeRed"><b>pouvez vous remplir le <a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>, s'il vous plait ?  C'est assez court ! Merci.
+Merci de noter que les <span style="color:LimeGreen"><b>Les ateliers de janvier - début février sont quasi complets du fait des pré-inscriptions et poursuites.</b></span>.
+<br/>
+Vous pouvez bien sûr me contacter pour pré-inscrire des personnes pour les prochains ateliers mais merci de prendre note que la poursuite des ateliers numérique est en cours de réflexion (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions 2025 </a></b></span>).
+<p>
+Et vous avez encore quelques jours pour  <span style="color:OrangeRed"><b> remplir le <a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>. C'est assez court ! Merci.
  <p>
-<br/>
-Vous pouvez bien sûr pré-inscrire des personnes pour les prochains ateliers qui auront lieu en janvier 2025 (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions pour Janvier 2025 </a></b></span>).
+ 
+<h3>Planning de Janvier : </h3>
+
+En Janvier sont ouverts  : <p>
+- l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : mardis 07, 14, 21 et 28 Janvier, Vendredi 29 Janvier- de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» en <b><span style="color:DodgerBlue">bleu</span></b> sur le planning: Mercredi 08, 15, 22 et 29 Janvier, de 10h à 12h00<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b>.<p>
+- 1 mini-cycle de 4 ateliers « Voir ou revoir les bases de l'<b>ORDINATEUR </b>» <b><span style="color:ForestGreen">vert</span></b> sur le planning: Vendredi 10, 17, 24 et 31 Janvier - de 10h à 12h<b><a href="https://sofi-ucrm.github.io/ucrm-mednum/mini-cycles#ordinateur"> (+d'infos) </a></b>. <p>
+- Vous accompagnez des personnes qui ont <b>des ordinateurs qui rament ou qui ne démarrent plus </b> ? La collègue médiatrice numérique CNFS de la régie de quartier Desbals Services lance au BAB (Parc du couserans à Bagatelle) des permanences d'autoréparation tous les mardi matin, en <b><span style="color:DarkOrchid ">violet </span></b>sur le planning. En janvier, j'y serai aussi. C'est ouvert à tout le monde. N'hésitez pas à revenir vers moi en cas de question. <p>
 <p>
-<h3>Planning de Novembre: </h3>
+<br>
+<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/planningJanvier2025.png"  />
+<p>
+
+(-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Inscriptions </a></b></span>)
+
+
+<h3>Planning de Novembre et Décembre: </h3>
 
 En Novembre sont proposés : <p>
 - l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : vendredi 15 Novembre, Vendredi 29 Novembre- de 10h à 12h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
