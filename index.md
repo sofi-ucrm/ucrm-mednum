@@ -115,13 +115,13 @@ Pour les ateliers BUREAUTIQUE, les personnes peuvent choisir de venir à 1 ou pl
  	&nbsp;
 </div>
 <h3>Inscription / pré-inscriptions : </h3>
- <strike><b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>  <p>
+<b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>  <p>
 
 Merci de préciser les : NOM + Prénom + Téléphone de la personne qui suivra l'atelier ainsi que le ou les groupes demandés. En cas de demandes trop nombreuses, une <b>liste d'attente</b> pourra être constituée. 
 
 <b>Les inscriptions seront confirmées directement aux participants et participantes. </b><p>
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)<p>
 <br/>
-<br/></strike>
+<br/>
 
 <img alt="banniere basse" src="https://sofi-ucrm.github.io/ucrm-mednum/images/banière basse avec UCRM.png"  /><p> 
