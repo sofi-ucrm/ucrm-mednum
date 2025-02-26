@@ -9,14 +9,13 @@ in_menu: true
 Si ce n'est pas précisé sur le planning , c'est que les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. Seuls ces ateliers sont ouverts aux inscriptions. 
 <p>
 <br/>
-Merci de noter que les <span style="color:LimeGreen"><b>Les ateliers de janvier - début février sont quasi complets du fait des pré-inscriptions. </b></span>.
-<br/>
-Vous pouvez bien sûr me contacter pour pré-inscrire des personnes pour les prochains ateliers mais merci de prendre note que la poursuite des ateliers numérique est en cours de réflexion (-> <span style="color:Tomato"> <b> <a href="#inscriptions"> Pré-Inscriptions 2025 </a></b></span>).
-<p>
-Et vous avez encore quelques jours pour  <span style="color:OrangeRed"><b> remplir le <a href="https://framaforms.org/ateliers-numeriques-1730027871">Questionnaire</a></b></span>. C'est assez court ! Merci.
+Merci de noter que les <span style="color:LimeGreen"><b> ateliers numériques sont suspendus et que ce site n'est plus maintenu. Merci de vous rapprocher du DEE pour plus d'informations. </b></span>
  <p>
+
  
-<h3>Planning de Janvier : </h3>
+<h3>Planning de Janvier + début février : </h3>
+
+<h3>Planning de Janvier + début février : </h3>
 
 En Janvier sont ouverts  : <p>
 - l'atelier <b>BUREAUTIQUE</b> pour revoir quelques bases du traitement de texte en <b><span style="color:Fuchsia ">rose</span></b> sur le planning : mardis 07, 14, 21 et 28 Janvier, Vendredi 29 Janvier- de 14h à 16h <b><a href="https://sofi-ucrm.github.io/ucrm-mednum/permanences.html#cv_lettre"> (+d'infos) </a></b><p>
@@ -111,13 +110,13 @@ Pour les ateliers BUREAUTIQUE, les personnes peuvent choisir de venir à 1 ou pl
  	&nbsp;
 </div>
 <h3>Inscription / pré-inscriptions : </h3>
-<b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a> <p>
+ <strike><b>Pour s'inscrire</b> ou inscrire des personnes accompagnées, il suffit de contacter Sophie D. au: 07 63 74 05 41 ou d'envoyer un mail à l'adresse : <a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>  <p>
 
 Merci de préciser les : NOM + Prénom + Téléphone de la personne qui suivra l'atelier ainsi que le ou les groupes demandés. En cas de demandes trop nombreuses, une <b>liste d'attente</b> pourra être constituée. 
 
 <b>Les inscriptions seront confirmées directement aux participants et participantes. </b><p>
 <b>Si question, contacter Sophie D. : 07 63 74 05 41 </b>(<a href="mailto:s.daeron@ucrm.fr">s.daeron@ucrm.fr</a>)<p>
 <br/>
-<br/>
+<br/></strike>
 
 <img alt="banniere basse" src="https://sofi-ucrm.github.io/ucrm-mednum/images/banière basse avec UCRM.png"  /><p> 
