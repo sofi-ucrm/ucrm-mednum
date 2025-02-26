@@ -9,12 +9,12 @@ in_menu: true
 Si ce n'est pas précisé sur le planning , c'est que les ateliers numériques ont lieu au **108 route d’Espagne – 31 100 Toulouse**. Seuls ces ateliers sont ouverts aux inscriptions. 
 <p>
 <br/> 
-( 26 février 2025) Merci de noter que les <span style="color:LimeGreen"><b> ateliers numériques sont suspendus et que ce site n'est plus tenu à jour. Merci de vous rapprocher du DEE pour toute question. </b></span>
+(26 février 2025) Merci de noter que les <span style="color:LimeGreen"><b> ateliers numériques sont suspendus et que ce site n'est plus tenu à jour. Merci de vous rapprocher du DEE pour toute question. </b></span>
  <p>
 
  <p>
 <br>
-<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/merci.png"  />
+<img alt="planning novembre" src="https://sofi-ucrm.github.io/ucrm-mednum/images/merci.jpg"  />
 <p>
 
  
